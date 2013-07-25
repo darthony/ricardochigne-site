@@ -1,5 +1,5 @@
 # [Ricardo Chigne Website](http://ricardochigne.com)
-This is the site of my friend @ rerres he is professional photographer
+This is the site of my friend @rerres he is professional photographer
 
 to carry it out, I decided to combine some opensource web projects.
 
